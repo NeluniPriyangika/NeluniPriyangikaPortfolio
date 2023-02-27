@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import ME from '../../assets/yellow.png';
+import ME from '../../assets/me1.jpg';
 import {FaAward} from 'react-icons/fa';
 import {FiUsers} from 'react-icons/fi';
 import {VscFolderLibrary} from 'react-icons/vsc';
@@ -14,7 +14,7 @@ const About = () => {
       <div className='container about_container'>
         <div className='about_me'>
           <div className='about_me-image'>
-            <img src={ME} alt='About Image'/>
+            <img src={ME} alt='AboutImage'/>
           </div>
         </div>
 
@@ -40,11 +40,13 @@ const About = () => {
           </div>
 
           <p>
-            ilhsfkasfkasfjasklfjhfffjkljaslkmfioqwfffffffffffffffffffffffffffffffffffffffffffffffffffmlmd
-            knfqqqqqqqqqqqqqqqqqqqqqhjhhhhhlklkhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-            hguuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuulkk
-            hhhhhhhhhhhhhhhuyuyouyoyoi89uijhkn
+            I am an undergraduate at University of Sri Jayewardenepura. 
+            In there I am studying BSc Information and Communication Technology as my degree under ICT department, 
+            and I will graduate in the fall of 2023. I love coding a lot and my future hope is to work as a Frontend developer as well as I'm passionate about DevOps and FullStack. 
+            So, I will be more involved in these fields.
           </p>
+
+          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
