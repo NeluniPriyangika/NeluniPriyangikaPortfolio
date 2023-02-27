@@ -1,9 +1,100 @@
 import React from 'react';
 import './services.css';
+import {BiCheck} from 'react-icons/bi';
 
 const Services = () => {
   return (
-    <section id='services'>Services</section>
+    <section id='services'>
+      <h5>What I Offer</h5>
+      <h2>Services</h2>
+
+      <div className='container services_container'>
+        <article className='service'>
+          <div className='service_head'>
+            <h3>Web Design</h3>
+          </div>
+          <ul className='service_list'>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+          </ul>
+        </article>
+        {/*end of Web Design */}
+        <article className='service'>
+          <div className='service_head'>
+            <h3>Web Development</h3>
+          </div>
+          <ul className='service_list'>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+          </ul>
+        </article>
+        {/*end of Web Development */}
+        <article className='service'>
+          <div className='service_head'>
+            <h3>Moble App Development Design</h3>
+          </div>
+          <ul className='service_list'>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>lorem, ipsum dolorsit amet consectetur elit.</p>
+            </li>
+          </ul>
+        </article>
+        {/*Moble App Development Design*/}
+      </div>
+    </section>
   )
 }
 
