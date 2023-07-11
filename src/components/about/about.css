@@ -67,6 +67,9 @@
 .about_content p {
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
+    font-size: 0.95rem;
+    text-align: justify;
+    
 }
 
 /*=======================================MEDIA QUERIES (MEDIUM DEVICES)========================================*/

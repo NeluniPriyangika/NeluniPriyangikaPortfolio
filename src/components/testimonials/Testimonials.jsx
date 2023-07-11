@@ -19,22 +19,22 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Kasun Gayantha',
-    review: 'she is very hard working girl.and aslo sheis very talant.i have been working with her sicince 4years. at that time i see her works. she has very good atitude.and she is a very smart girl and responsibale person.', 
+    review: 'I wholeheartedly recommend Miss. Neluni Priyangika for any future endeavors she may pursue. She is a standout student with exceptional qualities that will undoubtedly contribute to her success. I have no doubt that she will make a positive impact wherever she goes.', 
   },
   {
     avatar: AVTR2,
     name: 'Maheesha Dashantha',
-    review: 'she is very hard working girl.and aslo sheis very talant.i have been working with her sicince 4years. at that time i see her works. she has very good atitude.and she is a very smart girl and responsibale person.', 
+    review: 'I highly recommend Neluni Priyangika for any endeavor she chooses to pursue. She is a remarkable student who will undoubtedly make valuable contributions wherever she goes.', 
   },
   {
     avatar: AVTR3,
     name: 'Damitha De Alwis',
-    review: 'she is very hard working girl.and aslo sheis very talant.i have been working with her sicince 4years. at that time i see her works. she has very good atitude.and she is a very smart girl and responsibale person.', 
+    review: ' I wholeheartedly recommend Miss. Neluni Priyangika without hesitation. Her dedication, intelligence, responsibility, and positive attitude make her an exceptional student and a true asset. I have no doubt that she will continue to achieve great success in her future endeavors.', 
   },
   {
     avatar: AVTR4,
     name: 'Samitha Nanayakkara',
-    review: 'she is very hard working girl.and aslo sheis very talant.i have been working with her sicince 4years. at that time i see her works. she has very good atitude.and she is a very smart girl and responsibale person.', 
+    review: 'Neluni Priyangika is an exceptional individual who embodies the qualities of a true scholar. Her hard work, talent, positive attitude, intelligence, and sense of responsibility make her an outstanding student and an asset to any academic institution. I have no doubt that she will continue to excel and make significant contributions in any endeavor she pursues.', 
   },
 ]
 

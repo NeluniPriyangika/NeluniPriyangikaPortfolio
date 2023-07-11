@@ -23,27 +23,38 @@ const About = () => {
             <article className='about_card'>
               <FaAward className='about_icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>Undergraduate,<br/>Former school leaver trainee at Bank of Ceylon</small>
             </article>
 
             <article className='about_card'>
               <FiUsers className='about_icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Education</h5>
+              <small>Bachelor of Science (Hons) Information Technology</small>
             </article>
 
             <article className='about_card'>
               <VscFolderLibrary className='about_icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>Web, Mobile apps & Other development</small>
             </article>
           </div>
 
           <p>
-            I am an undergraduate at University of Sri Jayewardenepura. 
-            In there I am studying BSc Information and Communication Technology as my degree under ICT department, 
-            and I will graduate in the fall of 2023. I love coding a lot and my future hope is to work as a Frontend developer as well as I'm passionate about DevOps and FullStack. 
-            So, I will be more involved in these fields.
+            As an undergraduate pursuing a BSc in Information and Communication Technology at the University of Sri Jayewardenepura, 
+            I am a dedicated and passionate coder with a keen interest in Frontend development, DevOps, and FullStack. I am currently expanding my 
+            skills in these areas through various online courses and personal projects.<br/>
+
+            Throughout my studies, I have consistently demonstrated a strong aptitude for programming, 
+            as well as a deep commitment to learning and mastering new skills. I have worked on a range of projects both inside 
+            and outside of the classroom, including developing a mobile app for a local business and contributing to an open-source project on GitHub. 
+            And also I have experience as a postman student expert.<br/>
+
+            In addition to my technical skills, I am also a strong communicator and collaborator. 
+            I have worked on numerous group projects, both in-person and remotely, and have always been willing to share my expertise and learn from others.<br/>
+
+            Looking ahead, my goal is to secure a position as a professional developer, 
+            where I can put my skills to use and continue to grow as a programmer. I am excited about the opportunities that lie ahead 
+            and am eager to contribute to the ongoing innovation and advancement of the industry.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
